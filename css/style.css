@@ -8161,8 +8161,11 @@ h1, h2, h3, h4, h5,
 .bg-primary {
   background: #fc7fb2 !important; }
 
+.content-section {
+  padding: 1em ; }
+
 .ftco-section {
-  padding: 7em 0; }
+  padding: 1em 0; }
 
 .ftco-no-pt {
   padding-top: 0; }
